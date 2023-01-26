@@ -1,0 +1,30 @@
+[
+	{
+		"name": "Settler",
+		"unitType": "Civilian",
+		"uniqueTo": "Mochent",
+		"movement": 2,
+		"uniques": ["Founds a new city", "Unbuildable"],
+		"hurryCostModifier": 20
+	},
+	{
+		"name": "Armed Merchant",
+		"unitType": "Mounted",
+		"uniqueTo": "Mochent",
+		"replaces": "Cavalry",
+		"upgradesTo": "Landship",
+		"cost": 200,
+		"movement": 4,
+		"strength": 34,
+		"requiredTech": "Military Science",
+		"obsoleteTech": "Combustion",
+		"requiredResource": "Horses",
+		"uniques": [
+			"Can move after attacking",
+			"No defensive terrain bonus",
+			"[-33]% Strength <vs cities> <when attacking>",
+			"Earn [100]% of killed [Military] unit's [Strength] as [Gold]"
+		],
+		"attackSound": "horse"
+	}
+]

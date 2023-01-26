@@ -1,0 +1,35 @@
+[
+	{
+		"name": "Mochent",
+		"leaderName": "Havest",
+		"adjective": ["Mochent"],
+		"startBias": ["Gold Ore"],
+		"preferredVictoryType": "Cultural",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "You are in my way, you must be destroyed.",
+		"attacked": "You've fallen into my trap. I'll bury you.",
+		"defeated": "I congratulate you for your victory.",
+		"introduction": "The people of the Kingdom For Mochent welcome you.",
+
+		"neutralHello": "Hello.",
+		"hateHello": "Oh, it's you...",
+
+		"tradeRequest": "My friend, are you interested in this arrangement?",
+
+		"outerColor": [128, 26, 230],
+		"innerColor": [255, 191, 0],
+
+		"favoredReligion": "Money Worship",
+		"uniqueName": "Good Trade Sense",
+		"uniques": [
+			"[+1 Gold] from each Trade Route",
+			"Gain a free [Local Merchant Gang] [in all cities]",
+			"Can spend Gold to annex or puppet a City-State that has been your ally for [10] turns."
+		],
+		"cities": ["Empyrean"],
+		"spyNames": ["Gold", "Silver", "Copper", "Iron", "Tin"]
+	}
+]

@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Havest Statue",
+		"replaces": "Monument",
+		"uniqueTo": "Mochent",
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"greatPersonPoints": { "Great Merchant": 1 },
+		"maintenance": 1,
+		"uniques": [
+			"Destroyed when the city is captured",
+			"[+1 Culture] per [5] population [in this city]"
+		]
+	},
+	{
+		"name": "Local Merchant Gang",
+		"replaces": "Market",
+		"uniqueTo": "Mochent",
+		"cost": 75,
+		"specialistSlots": { "Merchant": 1 },
+		"uniques": [
+			"[+1 Gold] per [1] population [in this city]",
+			"[+2 Gold] from [Gold Ore] tiles [in this city]"
+		],
+		"requiredTech": "Currency"
+	}
+]
