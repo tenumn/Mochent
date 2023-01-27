@@ -21,8 +21,8 @@
 		"hurryCostModifier": 25,
 		"percentStatBonus": { "gold": 25 },
 		"uniques": [
-			"[+1 Gold] per [2] population [in this city]",
-			"[+2 Gold] from [Gold Ore] tiles [in this city]"
+			"Destroyed when the city is captured",
+			"[+1 Gold] per [2] population [in this city]"
 		],
 		"requiredTech": "Currency"
 	}

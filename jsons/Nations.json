@@ -26,6 +26,7 @@
 		"uniqueName": "Good Trade Sense",
 		"uniques": [
 			"[+1 Gold] from each Trade Route",
+			"[+2 Gold] from [Gold Ore] tiles [in this city]",
 			"Gain a free [Local Merchant Gang] [in all cities]"
 		],
 		"cities": ["Empyrean", "Salt City", "Grain City", "Gold City"],
