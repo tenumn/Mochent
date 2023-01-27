@@ -1,13 +1,5 @@
 [
 	{
-		"name": "Settler",
-		"unitType": "Civilian",
-		"uniqueTo": "Mochent",
-		"movement": 2,
-		"uniques": ["Founds a new city", "Unbuildable"],
-		"hurryCostModifier": 20
-	},
-	{
 		"name": "Armed Merchant",
 		"unitType": "Mounted",
 		"uniqueTo": "Mochent",

@@ -1,7 +1,7 @@
 [
-    {
-        "name": "Hades",
-        "type": "Pantheon",
-        "uniques": ["[+1 Gold, +1 Faith] from every [Gold Ore]"]
-    }
+	{
+		"name": "Hades",
+		"type": "Pantheon",
+		"uniques": ["[+2 Gold, +1 Faith] from every [Gold Ore]"]
+	}
 ]

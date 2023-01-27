@@ -9,9 +9,9 @@
 		"startIntroPart1": "",
 		"startIntroPart2": "",
 
-		"declaringWar": "You are in my way, you must be destroyed.",
-		"attacked": "You've fallen into my trap. I'll bury you.",
-		"defeated": "I congratulate you for your victory.",
+		"declaringWar": "If you don't take my advice, you'll regret it, I promise you. ",
+		"attacked": "Armed Merchant Corps Forward!!",
+		"defeated": "Want to be my enemy? daydreaming!",
 		"introduction": "The people of the Kingdom For Mochent welcome you.",
 
 		"neutralHello": "Hello.",
@@ -26,10 +26,9 @@
 		"uniqueName": "Good Trade Sense",
 		"uniques": [
 			"[+1 Gold] from each Trade Route",
-			"Gain a free [Local Merchant Gang] [in all cities]",
-			"Can spend Gold to annex or puppet a City-State that has been your ally for [10] turns."
+			"Gain a free [Local Merchant Gang] [in all cities]"
 		],
-		"cities": ["Empyrean"],
+		"cities": ["Empyrean", "Salt City", "Grain City", "Gold City"],
 		"spyNames": ["Gold", "Silver", "Copper", "Iron", "Tin"]
 	}
 ]
